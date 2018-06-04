@@ -1,0 +1,6 @@
+[package]
+name = "keycloak-rust"
+version = "0.1.0"
+authors = ["Abhishek Koserwal <akoserwa@redhat.com>"]
+
+[dependencies]
